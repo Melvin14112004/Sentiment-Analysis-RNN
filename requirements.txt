@@ -1,6 +1,8 @@
-streamlit
-pandas
-nltk
-scikit-learn
-torch
 tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit
+nltk
+keras
