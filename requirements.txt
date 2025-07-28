@@ -5,6 +5,5 @@ matplotlib
 scikit-learn
 streamlit
 nltk
-keras
 torch==2.0.1
 joblib
