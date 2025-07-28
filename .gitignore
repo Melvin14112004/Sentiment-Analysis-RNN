@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.pyd
+*.dll
+*.lib
+*.exe
+*.so
+*.h5
+*.ckpt
+*.csv
